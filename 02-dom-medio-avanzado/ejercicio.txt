@@ -1,0 +1,19 @@
+1. Crear un formulario que permita validar un correo electronico de manera dinámica, si el email no es correcto mostrara un mensaje 
+de error bajo el campo de texto
+
+
+2.Crear una tabla dinámica. Dado un array de objetos con datos de usuarios (nombre, edad, email) genera una tabla dinámicamente en la que cada fila corresponda a un usuario. 
+Añade funcionalidad para ordenar las filas por nombre o edad haciendo click en los encabezados de las columnas
+
+b) Utilizando la lista de usuarios añadir un input para que a medida que busquemos filtre los usuarios por su nombre.
+
+
+
+Crear una lista de elementos que al hacer click sobre ellos debe de aparecer un modal (ventana emergente) diciendo que si lo quiero eliminar, si marca q si elimina el div
+
+
+
+hacer un sign up
+
+
+practicar tablas para el examen
