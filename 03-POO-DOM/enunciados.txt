@@ -1,0 +1,13 @@
+Ejercicio GESTION DE PRODUCTOS Y SISTEMA BANCARIO
+Implementar una función constructora que modele un producto, del producto quiero saber el nombre, el precio el stock e imagen o url, los 
+metodos que quiero son obtener información del producto y actualizar stock pasandole como parámetro una cantidad +suma al stock negativa 
+resta del stock siempre que haya stock suficiente
+Genera un array de productos, renderizalos en el DOM (pintalos en el DOM), añade un boton a cada producto que permita actualizar el stock
+Pintar la lista con lista
+
+
+EJERCICIO SISTEMA BANCARIO
+Objetivo: implementar una clase llamada cuenta bancaria que tenga una propiedad privada llamada saldo y que me permita depositar una 
+cantidad, y retirar una cantidad.
+Genera en el DOM dos contenedores, uno para ingresar o retirar dinero de mi cuenta a traves de un radio button y otro mostrar información 
+de mi cuenta 
