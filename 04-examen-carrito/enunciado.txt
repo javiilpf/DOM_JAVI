@@ -1,0 +1,11 @@
+se pretende realizar una aplicación que ejemplifique un carrito de la compra 
+disponemos de las siguientes opciones
+a) Agregar productos (nombre, cantidad, precio).
+b) Editar productos (cantidad)
+c) Eliminar productos
+d) Actualizar el total del carrito dinámicamente
+e) Clases
+f) utilizar funcionciones constructoras
+g) Partimos de un div llamado app y todo se genera dinámicamente
+
+Guardaremos en el localstorage nuestro carrito de la compra con los productos.
