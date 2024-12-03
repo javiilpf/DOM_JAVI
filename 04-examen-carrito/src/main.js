@@ -24,7 +24,7 @@ import { Producto } from "./components/Producto";
 
 //----------------DECLARACION DE FUNCTIONS---------------
 
-const renderListaCarrito=() => {
+const init=() => {
   // capturamos el ul
   const lista = document.getElementById("lista-productos");
   const totalCarrito=document.getElementById("total-carrito");
@@ -38,11 +38,6 @@ const renderListaCarrito=() => {
    `).join("");
    //pongo el total
    totalCarrito.textContent=carrito.calcularTotal();
-
-
-
-
-
 
    lista
     .querySelector("btn-borrar")
@@ -63,7 +58,7 @@ const agregarProductoHandler=(event)=>{
 }
 
 const carrito=new Carrito();
-function renderCarrito(){
+function init(){
   //Selecciono el app.
   const app=document.getElementById("app");
   const titutloh1=document.createElement("h1");
@@ -97,4 +92,4 @@ function renderCarrito(){
 // añadir DIV para colocar los productos de mi carrito
 }
 
-renderCarrito();
+init();
